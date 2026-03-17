@@ -5,7 +5,6 @@ lib
 lib64/
 pyvenv.cfg
 share/
-scripts/
 
 # Python cache
 __pycache__/
