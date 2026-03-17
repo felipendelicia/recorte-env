@@ -1,0 +1,14 @@
+# Entornos virtuales
+bin/
+include/
+lib
+lib64/
+pyvenv.cfg
+share/
+scripts/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
